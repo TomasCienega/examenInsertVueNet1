@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examenInsertVueNet1Back", "examenInsertVueNet1Back\examenInsertVueNet1Back.csproj", "{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E722A2F1-E276-43D1-98D7-E70481CC5B92}
+	EndGlobalSection
+EndGlobal

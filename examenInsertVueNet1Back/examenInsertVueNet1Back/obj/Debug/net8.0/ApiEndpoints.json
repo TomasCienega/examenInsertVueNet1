@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "examenInsertVueNet1Back.Controllers.DepartamentoController",
+    "Method": "ListarDepartamento",
+    "RelativePath": "api/Departamento/ListaDepartamentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[examenInsertVueNet1Back.DTOs.DepartamentoDTO, examenInsertVueNet1Back, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenInsertVueNet1Back.Controllers.EmpleadoController",
+    "Method": "GuardarEmpleado",
+    "RelativePath": "api/Empleado/GuardarEmpleado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleadoDTO",
+        "Type": "examenInsertVueNet1Back.DTOs.EmpleadoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "examenInsertVueNet1Back.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenInsertVueNet1Back.Controllers.EmpleadoController",
+    "Method": "ListarEmpleados",
+    "RelativePath": "api/Empleado/ListaEmpleados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDep",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[examenInsertVueNet1Back.DTOs.EmpleadoDTO, examenInsertVueNet1Back, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

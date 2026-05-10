@@ -1,0 +1,6 @@
+@examenInsertVueNet1Back_HostAddress = http://localhost:5071
+
+GET {{examenInsertVueNet1Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
