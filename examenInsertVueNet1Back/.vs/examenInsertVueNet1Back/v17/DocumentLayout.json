@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertVueNet1\\examenInsertVueNet1Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertvuenet1\\exameninsertvuenet1back\\exameninsertvuenet1back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F7CFDF76-EFEF-4177-9E15-E8F516C78ADC}|examenInsertVueNet1Back\\examenInsertVueNet1Back.csproj|solutionrelative:exameninsertvuenet1back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertVueNet1\\examenInsertVueNet1Back\\examenInsertVueNet1Back\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "examenInsertVueNet1Back\\Controllers\\EmpleadoController.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "examenInsertVueNet1Back\\Controllers\\EmpleadoController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T21:26:10.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T21:26:10.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DepartamentoController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertVueNet1\\examenInsertVueNet1Back\\examenInsertVueNet1Back\\Controllers\\DepartamentoController.cs",
               "RelativeDocumentMoniker": "examenInsertVueNet1Back\\Controllers\\DepartamentoController.cs",
@@ -63,11 +62,12 @@
               "RelativeToolTip": "examenInsertVueNet1Back\\Controllers\\DepartamentoController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T20:47:34.3Z"
+              "WhenOpened": "2026-04-29T20:47:34.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EmpleadoDTO.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertVueNet1\\examenInsertVueNet1Back\\examenInsertVueNet1Back\\DTOs\\EmpleadoDTO.cs",
               "RelativeDocumentMoniker": "examenInsertVueNet1Back\\DTOs\\EmpleadoDTO.cs",
@@ -87,11 +87,12 @@
               "RelativeToolTip": "examenInsertVueNet1Back\\DTOs\\DepartamentoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T02:42:06.197Z"
+              "WhenOpened": "2026-04-29T02:42:06.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertVueNet1\\examenInsertVueNet1Back\\examenInsertVueNet1Back\\appsettings.json",
               "RelativeDocumentMoniker": "examenInsertVueNet1Back\\appsettings.json",
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertVueNet1\\examenInsertVueNet1Back\\examenInsertVueNet1Back\\Program.cs",
               "RelativeDocumentMoniker": "examenInsertVueNet1Back\\Program.cs",
